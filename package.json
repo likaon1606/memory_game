@@ -2,7 +2,7 @@
   "name": "memory_game",
   "version": "0.1.0",
   "private": true,
-  "homepage": "https://likaon1606.github.io/memory_game/build",
+  "homepage": "https://likaon1606.github.io/memory_game",
   "dependencies": {
     "@testing-library/jest-dom": "^5.16.5",
     "@testing-library/react": "^13.4.0",
