@@ -1,15 +1,24 @@
 {
   "files": {
-    "main.css": "/memory_game/static/css/main.ba3f28bb.css",
-    "main.js": "/memory_game/static/js/main.6d1d7200.js",
+    "main.css": "/memory_game/static/css/main.81b93fac.css",
+    "main.js": "/memory_game/static/js/main.fa126975.js",
     "static/js/787.69b12325.chunk.js": "/memory_game/static/js/787.69b12325.chunk.js",
+    "static/media/instagram.png": "/memory_game/static/media/instagram.347c6b60c693b894a3ce.png",
+    "static/media/messenger.png": "/memory_game/static/media/messenger.085babcd154a5930650f.png",
+    "static/media/whatsapp.png": "/memory_game/static/media/whatsapp.721b162bb422359ee221.png",
+    "static/media/spotify.png": "/memory_game/static/media/spotify.47e19ef8fdbef5d68795.png",
+    "static/media/facebook.png": "/memory_game/static/media/facebook.ad357208317c4a67884e.png",
+    "static/media/google.png": "/memory_game/static/media/google.7c62ab68f8331da82e3d.png",
+    "static/media/linkedin.png": "/memory_game/static/media/linkedin.ff5cf23665ab93fa5137.png",
+    "static/media/discord.png": "/memory_game/static/media/discord.b9e6607d804d284690f1.png",
+    "static/media/google_duo.png": "/memory_game/static/media/google_duo.e493e28601ef5c449efe.png",
     "index.html": "/memory_game/index.html",
-    "main.ba3f28bb.css.map": "/memory_game/static/css/main.ba3f28bb.css.map",
-    "main.6d1d7200.js.map": "/memory_game/static/js/main.6d1d7200.js.map",
+    "main.81b93fac.css.map": "/memory_game/static/css/main.81b93fac.css.map",
+    "main.fa126975.js.map": "/memory_game/static/js/main.fa126975.js.map",
     "787.69b12325.chunk.js.map": "/memory_game/static/js/787.69b12325.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.ba3f28bb.css",
-    "static/js/main.6d1d7200.js"
+    "static/css/main.81b93fac.css",
+    "static/js/main.fa126975.js"
   ]
 }
