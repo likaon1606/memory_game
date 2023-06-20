@@ -1,5 +1,5 @@
 import React, { useEffect, useState } from "react";
-import { imgs } from "../data";
+import imgs from "./Images";
 import Card from "./Card";
 
 const shuffleArray = (array) => {
@@ -31,7 +31,7 @@ const Board = () => {
       return {
         ...card,
         flipped: false,
-        marched: false,
+        matched: false,
       };
     });
     setCards(cards);
