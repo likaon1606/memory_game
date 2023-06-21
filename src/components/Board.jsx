@@ -121,6 +121,9 @@ const Board = () => {
           >
             NewGame
           </button>
+          <p className='text-red-500 font-semibold'>
+            © copyright Developer Ariel F.G.
+          </p>
         </div>
         <Modal
           gameOver={gameOver}
