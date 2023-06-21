@@ -5,7 +5,7 @@ const Card = ({ card, handleCardClick }) => {
     <div
       className={`drop-shadow-md flex items-center ${
         card.flipped ? "[transform: rotateY(10deg)]" : "bg-orange-500"
-      } justify-center cursor-pointer h-16 w-16 hover:scale-110 rounded-xl transition-all duration-500`}
+      } justify-center cursor-pointer h-16 w-16 hover:scale-110 rounded-xl transition-all duration-1000`}
       onClick={() => handleCardClick(card.id)}
     >
       <div>
