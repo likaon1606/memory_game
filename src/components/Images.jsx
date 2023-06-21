@@ -1,20 +1,20 @@
-import facebook from "../assets/img/facebook.png";
+import github from "../assets/img/github.png";
 import discord from "../assets/img/discord.png";
-import instagram from "../assets/img/instagram.png";
-import whatsapp from "../assets/img/whatsapp.png";
-import google from "../assets/img/google.png";
-import google_duo from "../assets/img/google_duo.png";
-import linkedin from "../assets/img/linkedin.png";
-import netflix from "../assets/img/netflix.png";
-import messenger from "../assets/img/messenger.png";
-import spotify from "../assets/img/spotify.png";
+import html from "../assets/img/html.png";
+import css from "../assets/img/css.png";
+import node from "../assets/img/node.png";
+import react from "../assets/img/react.png";
+import sass from "../assets/img/sass.png";
+import materialUi from "../assets/img/materialui.png";
+import angular from "../assets/img/angular.png";
+import postgres from "../assets/img/postgres.png";
 
 const imgs = [
   {
     id: 1,
     //../public/img/facebook.png
-    img: facebook,
-    alt: "Facebook",
+    img: github,
+    alt: "Github",
   },
   {
     id: 2,
@@ -23,40 +23,40 @@ const imgs = [
   },
   {
     id: 3,
-    img: instagram,
-    alt: "Instagram",
+    img: html,
+    alt: "Html",
   },
   {
     id: 4,
-    img: whatsapp,
-    alt: "WhatsApp",
+    img: css,
+    alt: "Css",
   },
   {
     id: 5,
-    img: google,
-    alt: "Google",
+    img: node,
+    alt: "Node",
   },
   {
     id: 6,
-    img: google_duo,
-    alt: "Google Duo",
+    img: react,
+    alt: "React",
   },
   {
     id: 7,
-    img: linkedin,
-    alt: "Linkedin",
+    img: sass,
+    alt: "Sass",
   },
   {
     id: 8,
-    img: netflix,
-    alt: "Netflix",
+    img: materialUi,
+    alt: "MaterialUi",
   },
   {
     id: 9,
-    img: messenger,
-    alt: "Messenger",
+    img: angular,
+    alt: "Angular",
   },
-  { id: 10, img: spotify, alt: "Spotify" },
+  { id: 10, img: postgres, alt: "Postgres" },
 ];
 
 export default imgs;

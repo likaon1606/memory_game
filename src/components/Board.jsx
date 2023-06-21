@@ -102,7 +102,7 @@ const Board = () => {
 
       <div className='relative h-screen flex items-center'>
         <div className='mx-auto flex flex-col justify-center items-center'>
-          <h1 className='font-bold text-4xl my-8 text-center text-transparent bg-clip-text bg-gradient-to-r from-green-400 to-blue-500 hover:from-pink-500 hover:to-yellow-500 transition duration-500 ease-transform hover:-translate-y-1 hover:scale-110 md:text-5xl '>
+          <h1 className='font-bold text-4xl my-8 text-center text-transparent bg-clip-text bg-gradient-to-r from-orange-500 to-black hover:from-green-500 hover:to-orange-500 transition duration-500 ease-transform hover:-translate-y-1 hover:scale-110 md:text-5xl cursor-pointer'>
             Memory Game
           </h1>
           {/*Father Container Cards */}

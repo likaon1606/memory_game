@@ -13,7 +13,7 @@ const Modal = ({ gameOver, setGameOver, moves, handleNewGame }) => {
         viewBox='0 0 24 24'
         strokeWidth={1.5}
         stroke='currentColor'
-        className='text-white w-12 h-12 bg-yellow-500 rounded-full p-2 animate-bounce'
+        className='text-white w-12 h-12 bg-orange-500 rounded-full p-2 animate-bounce'
       >
         <path
           strokeLinecap='round'
@@ -23,7 +23,7 @@ const Modal = ({ gameOver, setGameOver, moves, handleNewGame }) => {
       </svg>
 
       <button
-        className='text-white font-bold absolute right-0 top-0 mr-3 hover:text-yellow-500 text-2xl'
+        className='text-white font-bold absolute right-0 top-0 mr-3 hover:text-orange-500 text-2xl'
         onClick={() => setGameOver(false)}
       >
         &times;
@@ -39,7 +39,7 @@ const Modal = ({ gameOver, setGameOver, moves, handleNewGame }) => {
       </div>
 
       <button
-        className='bg-yellow-500 font-semibold text-black rounded-md px-5 py-1 hover:opacity-90'
+        className='bg-orange-500 font-semibold text-black rounded-md px-5 py-1 hover:opacity-90'
         onClick={handleNewGame}
       >
         NewGame
